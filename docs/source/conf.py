@@ -18,9 +18,9 @@ sys.path.insert(0, os.path.abspath("../../"))
 
 # -- Project information -----------------------------------------------------
 
-project = "Safe-eth-py"
-copyright = "2018-2021, Uxio"
-author = "Uxio"
+project = "neon-safe-eth-py"
+copyright = "2023-2025, Sj001"
+author = "Sj001"
 
 
 # -- General configuration ---------------------------------------------------
